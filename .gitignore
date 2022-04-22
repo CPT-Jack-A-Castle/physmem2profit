@@ -12,5 +12,3 @@ server/packages
 server/obj
 server/bin
 server/*.csproj.user
-
-*.sys
